@@ -1,0 +1,20 @@
+.ftr{
+    background-color: rgb(8, 8, 8);
+        position: static;
+        height: 40px;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+        transition: .3s ease-in;
+        overflow: hidden;
+    
+}
+
+.spn{
+    align-items: center; 
+    padding-top: 4px; 
+    color: rgba(255, 255, 255, 0.993); 
+    font-size: small;
+    padding-bottom: 4px;
+}
